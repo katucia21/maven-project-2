@@ -31,11 +31,11 @@
             <id>nexus</id>
 <<<<<<< HEAD
 <<<<<<< HEAD
-            <url>http://54.86.23.220:8081/repository/maven-snapshots/</url>
+            <url>http://34.224.23.66:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>nexus</id>
-            <url>http://54.86.23.220:8081/repository/maven-releases/</url>
+            <url>http://34.224.23.66:8081/repository/maven-releases/</url>
 =======
             <url>http://3.80.224.114:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
@@ -235,4 +235,3 @@
   </prerequisites>
 
 </project>
-
